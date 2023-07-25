@@ -893,7 +893,7 @@ blockquote cite:before {
   line-height: 25px;
   font-weight: 600;
   text-transform: capitalize;
-  cursor: pointer;
+  
   display: inline-block;
   position: relative;
   transition: all 0.4s;
