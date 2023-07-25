@@ -1,0 +1,930 @@
+  <!-- About Section Start -->
+      <!-- <div
+        id="rs-about"
+        class="rs-about style1 pt-125 pb-130 md-pt-75 md-pb-80"
+      >
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-lg-6 col-md-12 md-mb-50">
+              <div class="sec-title mb-40 md-mb-0">
+                <span class="sub-upper pb-13"
+                  >[ <span class="sub-title">About company</span> ]
+                </span>
+                <h2 class="title pb-26">
+                  Improve and Innovate The <span>Tecnolab</span> Trends
+                </h2>
+                <div class="desc pb-30">
+                  Nor is there anyone who loves or pursues or desires to obtain
+                  pain of itself, because it is pain, but occasionally
+                  circumstances occur in which toil and pain can procure him
+                  some great pleasure. Creation timelines for the digital
+                  consulting business theme 2021 standard
+                </div>
+                <ul class="rs-features-list">
+                  <li>
+                    <i class="fa fa-check-circle"></i>
+                    <span class="rs-feature-text"
+                      >Sed ut perspiciatis unde omnis iste natus error</span
+                    >
+                  </li>
+                  <li>
+                    <i class="fa fa-check-circle"></i>
+                    <span class="rs-feature-text"
+                      >Sed ut perspiciatis unde omnis iste natus error</span
+                    >
+                  </li>
+                  <li>
+                    <i class="fa fa-check-circle"></i>
+                    <span class="rs-feature-text"
+                      >Sed ut perspiciatis unde omnis iste natus error</span
+                    >
+                  </li>
+                </ul>
+                <div class="btn-part mt-36">
+                  <a class="readon started get" href="about-us.html"
+                    >Get Started</a
+                  >
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="about-images">
+                <img
+                  class="js-tilt"
+                  src="images/about/about-2.jpg"
+                  alt="images"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div> -->
+      <!-- About Section End -->
+
+      <!-- Services Section Start -->
+      <div
+        class="rs-services services-style2 pink-bg pt-125 pb-130 md-pt-75 md-pb-80"
+      >
+        <div class="container">
+          <div class="sec-title text-center mb-40">
+            <span class="sub-upper pb-13"
+              >[ <span class="sub-title">Services</span> ]
+            </span>
+            <h2 class="title">
+              We Provide Truly Prominent<br />
+              <span>Technology</span> Solutions
+            </h2>
+          </div>
+          <div class="row">
+            <div class="col-lg-4 md-mb-50">
+              <div class="services-item mb-30">
+                <div class="services-icon">
+                  <img
+                    class="main-img"
+                    src="images/services/style1/main-img/1.png"
+                    alt=""
+                  />
+                  <img
+                    class="hover-img"
+                    src="images/services/style1/hover-img/1.png"
+                    alt=""
+                  />
+                </div>
+                <div class="services-content">
+                  <h3 class="title">
+                    <a href="software-development.html">IT Consulting</a>
+                  </h3>
+                  <div class="services-desc">
+                    <p>
+                      We provide various consulting services including IT strategy development, Project Management,System Integration & Technology Optimization.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="services-item mb-30 aqua-bg">
+                <div class="services-icon">
+                  <img
+                    class="main-img"
+                    src="images/services/style1/main-img/3.png"
+                    alt=""
+                  />
+                  <img
+                    class="hover-img"
+                    src="images/services/style1/hover-img/3.png"
+                    alt=""
+                  />
+                </div>
+                <div class="services-content">
+                  <h3 class="title">
+                    <a href="software-development.html">Clould DevOps</a>
+                  </h3>
+                  <div class="services-desc">
+                    <p>
+                      We denounce righteous indignation & dislike men demorlized
+                      data.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="services-item purple-bg">
+                <div class="services-icon">
+                  <img
+                    class="main-img"
+                    src="images/services/style1/main-img/5.png"
+                    alt=""
+                  />
+                  <img
+                    class="hover-img"
+                    src="images/services/style1/hover-img/5.png"
+                    alt=""
+                  />
+                </div>
+                <div class="services-content">
+                  <h3 class="title">
+                    <a href="software-development.html">Product Design</a>
+                  </h3>
+                  <div class="services-desc">
+                    <p>
+                      We denounce righteous indignation & dislike men demorlized
+                      data.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 md-mb-50">
+              <div class="converted-img">
+                <img
+                  src="images/services/style1/converted.png"
+                  alt="services-img"
+                />
+              </div>
+            </div>
+            <div class="col-lg-4">
+              <div class="services-item mb-30 blue-bg">
+                <div class="services-icon">
+                  <img
+                    class="main-img"
+                    src="images/services/style1/main-img/2.png"
+                    alt=""
+                  />
+                  <img
+                    class="hover-img"
+                    src="images/services/style1/hover-img/2.png"
+                    alt=""
+                  />
+                </div>
+                <div class="services-content">
+                  <h3 class="title">
+                    <a href="software-development.html">Data Security</a>
+                  </h3>
+                  <div class="services-desc">
+                    <p>
+                      We denounce righteous indignation & dislike men demorlized
+                      data.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="services-item mb-30 pink-bg">
+                <div class="services-icon">
+                  <img
+                    class="main-img"
+                    src="images/services/style1/main-img/4.png"
+                    alt=""
+                  />
+                  <img
+                    class="hover-img"
+                    src="images/services/style1/hover-img/4.png"
+                    alt=""
+                  />
+                </div>
+                <div class="services-content">
+                  <h3 class="title">
+                    <a href="software-development.html">IT Counsulting</a>
+                  </h3>
+                  <div class="services-desc">
+                    <p>
+                      We denounce righteous indignation & dislike men demorlized
+                      data.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="services-item blue-light-bg">
+                <div class="services-icon">
+                  <img
+                    class="main-img"
+                    src="images/services/style1/main-img/6.png"
+                    alt=""
+                  />
+                  <img
+                    class="hover-img"
+                    src="images/services/style1/hover-img/6.png"
+                    alt=""
+                  />
+                </div>
+                <div class="services-content">
+                  <h3 class="title">
+                    <a href="software-development.html">Data processing</a>
+                  </h3>
+                  <div class="services-desc">
+                    <p>
+                      We denounce righteous indignation & dislike men demorlized
+                      data.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="rs-animation">
+          <div class="services-animate">
+            <img src="images/services/style1/dotted.png" alt="Services" />
+          </div>
+        </div>
+      </div>
+      <!-- Services Section End -->
+
+      <!-- Contact Section Start -->
+      <div class="rs-contact style1 bg4 pt-130 pb-130 md-pt-80 md-pb-80">
+        <div class="container">
+          <div class="contact-section">
+            <div class="sec-title mb-35">
+              <h2 class="title">Need any <span>help!</span> contact us</h2>
+            </div>
+            <div class="addrerss-box">
+              <div class="row">
+                <div class="col-lg-6 md-mb-30">
+                  <div class="address-item">
+                    <div class="address-icon">
+                      <img src="images/contact/home2/1.png" alt="Images" />
+                    </div>
+                    <div class="address-text">
+                      <span class="title">Call 24/7</span>
+                      <a href="tel:+(+088)589-8745">(+088)589-8745</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-6">
+                  <div class="address-item">
+                    <div class="address-icon">
+                      <img src="images/contact/home2/2.png" alt="Images" />
+                    </div>
+                    <div class="address-text">
+                      <span class="title">Email us</span>
+                      <a href="mailto:info@yourdomain.com"
+                        >info@yourdomain.com</a
+                      >
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Contact Section End -->
+
+      <!-- Project Section Start -->
+      <div class="rs-project project-style2 pt-125 pb-130 md-pt-75 md-pb-80">
+        <div class="container">
+          <div class="sec-title text-center mb-40">
+            <span class="sub-upper pb-13"
+              >[ <span class="sub-title">Our Projects</span> ]
+            </span>
+            <h2 class="title">Our Some Finest Projects</h2>
+          </div>
+          <div class="gridFilter text-center mb-70 md-mb-30">
+            <button class="active" data-filter="*">All</button>
+            <button data-filter=".filter1">Mobile App</button>
+            <button data-filter=".filter2">Product Design</button>
+            <button data-filter=".filter3">Web Design</button>
+          </div>
+          <div class="row grid">
+            <div class="col-lg-4 col-md-6 grid-item filter1">
+              <div class="project-item mb-30">
+                <div class="project-img">
+                  <a href="case-studies-single.html"
+                    ><img src="images/project/main-home/1.jpg" alt="images"
+                  /></a>
+                </div>
+                <div class="project-content">
+                  <div class="project-inner">
+                    <h3 class="title">
+                      <a href="case-studies-single.html">E-commerce App</a>
+                    </h3>
+                    <span class="category"
+                      ><a href="case-studies-single.html"
+                        >Product Design</a
+                      ></span
+                    >
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 grid-item filter3 filter1">
+              <div class="project-item mb-30">
+                <div class="project-img">
+                  <a href="#"
+                    ><img src="images/project/main-home/2.jpg" alt="images"
+                  /></a>
+                </div>
+                <div class="project-content">
+                  <div class="project-inner">
+                    <h3 class="title">
+                      <a href="case-studies-single.html"
+                        >Creative Cards UI Kit</a
+                      >
+                    </h3>
+                    <span class="category"
+                      ><a href="case-studies-single.html"
+                        >Product Design</a
+                      ></span
+                    >
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 grid-item filter1 filter3">
+              <div class="project-item mb-30">
+                <div class="project-img">
+                  <a href="#"
+                    ><img src="images/project/main-home/3.jpg" alt="images"
+                  /></a>
+                </div>
+                <div class="project-content">
+                  <div class="project-inner">
+                    <h3 class="title">
+                      <a href="case-studies-single.html">App UI Elements</a>
+                    </h3>
+                    <span class="category"
+                      ><a href="case-studies-single.html">Web Design</a></span
+                    >
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 grid-item filter1 filter3">
+              <div class="project-item md-mb-30">
+                <div class="project-img">
+                  <a href="#"
+                    ><img src="images/project/main-home/4.jpg" alt="images"
+                  /></a>
+                </div>
+                <div class="project-content">
+                  <div class="project-inner">
+                    <h3 class="title">
+                      <a href="case-studies-single.html">Marketing</a>
+                    </h3>
+                    <span class="category"
+                      ><a href="case-studies-single.html">Web Design</a></span
+                    >
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 grid-item filter2 filter1">
+              <div class="project-item sm-mb-30">
+                <div class="project-img">
+                  <a href="#"
+                    ><img src="images/project/main-home/5.jpg" alt="images"
+                  /></a>
+                </div>
+                <div class="project-content">
+                  <div class="project-inner">
+                    <h3 class="title">
+                      <a href="case-studies-single.html">Mobile App UI Kit</a>
+                    </h3>
+                    <span class="category"
+                      ><a href="case-studies-single.html">Mobile App</a></span
+                    >
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 grid-item filter2 filter2">
+              <div class="project-item">
+                <div class="project-img">
+                  <a href="#"
+                    ><img
+                      src="assets/images/project/main-home/6.jpg"
+                      alt="images"
+                  /></a>
+                </div>
+                <div class="project-content">
+                  <div class="project-inner">
+                    <h3 class="title">
+                      <a href="case-studies-single.html">Home Shopping App</a>
+                    </h3>
+                    <span class="category"
+                      ><a href="case-studies-single.html">Mobile App</a></span
+                    >
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Project Section End -->
+
+      <!-- Why Choose Section Start -->
+      <div id="rs-whychooseus" class="rs-whychooseus style1 pink-bg">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-lg-6 col-md-12 md-mb-50">
+              <div class="choose-images">
+                <img
+                  class="js-tilt"
+                  src="images/choose/image.jpg"
+                  alt="images"
+                />
+              </div>
+            </div>
+            <div class="col-lg-6 col-md-12 padding-0">
+              <div class="sec-title mb-40">
+                <span class="sub-upper pb-13"
+                  >[ <span class="sub-title">Our Specialty</span> ]
+                </span>
+                <h2 class="title pb-26">
+                  Improve and Innovate The <span>Tecnolab</span> Trends
+                </h2>
+                <div class="desc">
+                  Nor is there anyone who loves or pursues or desires to obtain
+                  pain of itself, because it is pain, but occasionally
+                  circumstances occur in which toil and pain can procure him
+                  some great pleasured.
+                </div>
+              </div>
+              <!-- Skillbar Section Start -->
+              <div class="rs-skillbar style1">
+                <div class="cl-skill-bar">
+                  <!-- Start Skill Bar -->
+                  <span class="skillbar-title">Analytics</span>
+                  <div class="skillbar" data-percent="95">
+                    <p class="skillbar-bar"></p>
+                    <span class="skill-bar-percent"></span>
+                  </div>
+                  <!-- Start Skill Bar -->
+                  <span class="skillbar-title">Development</span>
+                  <div class="skillbar blue-style" data-percent="75">
+                    <p class="skillbar-bar"></p>
+                    <span class="skill-bar-percent"></span>
+                  </div>
+                  <!-- Start Skill Bar -->
+                  <span class="skillbar-title">Solutions</span>
+                  <div class="skillbar pink-style" data-percent="85">
+                    <p class="skillbar-bar"></p>
+                    <span class="skill-bar-percent"></span>
+                  </div>
+                </div>
+              </div>
+              <!-- Skillbar Section End -->
+            </div>
+          </div>
+        </div>
+        <div class="rs-animation">
+          <div class="animate left-side">
+            <img src="images/choose/icons/2.png" alt="Images" />
+          </div>
+          <div class="animate right-side">
+            <img src="images/choose/icons/1.png" alt="Images" />
+          </div>
+        </div>
+      </div>
+      <!-- Why Choose Section End -->
+
+      <!-- Counter Section Start -->
+      <div class="rs-counter style1 counter-style2">
+        <div class="container">
+          <div class="counter-top-area text-center">
+            <div class="row">
+              <div class="col-lg-3 col-md-6 md-mb-30">
+                <div class="counter-list">
+                  <div class="counter-text">
+                    <div class="count-number">
+                      <span class="rs-count k">25</span>
+                    </div>
+                    <h3 class="title">Products Done</h3>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6 md-mb-30">
+                <div class="counter-list">
+                  <div class="counter-text">
+                    <div class="count-number">
+                      <span class="rs-count k">10</span>
+                    </div>
+                    <h3 class="title">Happy Clients</h3>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6 sm-mb-30">
+                <div class="counter-list">
+                  <div class="counter-text">
+                    <div class="count-number">
+                      <span class="rs-count plus">25</span>
+                    </div>
+                    <h3 class="title">Companies</h3>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6">
+                <div class="counter-list">
+                  <div class="counter-text">
+                    <div class="count-number">
+                      <span class="rs-count k">90</span>
+                    </div>
+                    <h3 class="title">Team Members</h3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Counter Section End -->
+ <!-- Testimonial Section Start -->
+      <div
+        class="rs-testimonial testimonial-style1 testimonial-style2 pink-bg pt-125 pb-130 md-pt-75 md-pb-80"
+      >
+        <div class="container">
+          <div class="row y-middle">
+            <div class="col-lg-5">
+              <div class="sec-title mb-50">
+                <span class="sub-upper pb-13"
+                  >[ <span class="sub-title">Testimonial</span> ]
+                </span>
+                <h2 class="title">Our Clients <span>Feedback</span></h2>
+              </div>
+            </div>
+            <div class="col-lg-7">
+              <div class="sec-title mb-28">
+                <p class="desc">
+                  We denounce with righteous indignation and dislike men who are
+                  so beguiled and demoralized by the charms of pleasure of the
+                  moment.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            class="rs-carousel owl-carousel"
+            data-loop="true"
+            data-items="3"
+            data-margin="30"
+            data-autoplay="true"
+            data-hoverpause="true"
+            data-autoplay-timeout="5000"
+            data-smart-speed="400"
+            data-dots="true"
+            data-nav="false"
+            data-nav-speed="false"
+            data-md-device="3"
+            data-md-device-nav="false"
+            data-md-device-dots="false"
+            data-center-mode="true"
+            data-ipad-device2="2"
+            data-ipad-device-nav2="false"
+            data-ipad-device-dots2="false"
+            data-ipad-device="2"
+            data-ipad-device-nav="false"
+            data-ipad-device-dots="false"
+            data-mobile-device="1"
+            data-mobile-device-nav="false"
+            data-mobile-device-dots="false"
+          >
+            <div class="testi-item">
+              <div class="item-content">
+                <div class="desc">
+                  <img
+                    class="quote"
+                    src="assets/images/testimonial/main-home/quote.png"
+                    alt=""
+                  />Capitalize on low hanging fruit to identify a ballpark value
+                  added activity to beta test. Override the digital divide with
+                  additional clickthroughs from DevOps. Nanotechnology immersion
+                  along the information highway.
+                </div>
+              </div>
+              <div class="testi-content">
+                <div class="image-wrap">
+                  <img src="assets/images/testimonial/main-home/1.jpg" alt="" />
+                </div>
+                <div class="testi-information">
+                  <div class="testi-name">Abdur Rashid</div>
+                  <span class="designation">CEO, Brick Consulting</span>
+                </div>
+              </div>
+            </div>
+            <div class="testi-item">
+              <div class="item-content">
+                <div class="desc">
+                  <img
+                    class="quote"
+                    src="assets/images/testimonial/main-home/quote.png"
+                    alt=""
+                  />Capitalize on low hanging fruit to identify a ballpark value
+                  added activity to beta test. Override the digital divide with
+                  additional clickthroughs from DevOps. Nanotechnology immersion
+                  along the information highway.
+                </div>
+              </div>
+              <div class="testi-content">
+                <div class="image-wrap">
+                  <img src="assets/images/testimonial/main-home/2.jpg" alt="" />
+                </div>
+                <div class="testi-information">
+                  <div class="testi-name">Mariya Khan</div>
+                  <span class="designation">App Developer</span>
+                </div>
+              </div>
+            </div>
+            <div class="testi-item">
+              <div class="item-content">
+                <div class="desc">
+                  <img
+                    class="quote"
+                    src="assets/images/testimonial/main-home/quote.png"
+                    alt=""
+                  />Capitalize on low hanging fruit to identify a ballpark value
+                  added activity to beta test. Override the digital divide with
+                  additional clickthroughs from DevOps. Nanotechnology immersion
+                  along the information highway.
+                </div>
+              </div>
+              <div class="testi-content">
+                <div class="image-wrap">
+                  <img src="assets/images/testimonial/main-home/3.jpg" alt="" />
+                </div>
+                <div class="testi-information">
+                  <div class="testi-name">Betty Wilson</div>
+                  <span class="designation">Manager</span>
+                </div>
+              </div>
+            </div>
+            <div class="testi-item">
+              <div class="item-content">
+                <div class="desc">
+                  <img
+                    class="quote"
+                    src="assets/images/testimonial/main-home/quote.png"
+                    alt=""
+                  />Capitalize on low hanging fruit to identify a ballpark value
+                  added activity to beta test. Override the digital divide with
+                  additional clickthroughs from DevOps. Nanotechnology immersion
+                  along the information highway.
+                </div>
+              </div>
+              <div class="testi-content">
+                <div class="image-wrap">
+                  <img src="assets/images/testimonial/main-home/4.jpg" alt="" />
+                </div>
+                <div class="testi-information">
+                  <div class="testi-name">Melania Trump</div>
+                  <span class="designation">Vice Principal</span>
+                </div>
+              </div>
+            </div>
+            <div class="testi-item">
+              <div class="item-content">
+                <div class="desc">
+                  <img
+                    class="quote"
+                    src="assets/images/testimonial/main-home/quote.png"
+                    alt=""
+                  />Capitalize on low hanging fruit to identify a ballpark value
+                  added activity to beta test. Override the digital divide with
+                  additional clickthroughs from DevOps. Nanotechnology immersion
+                  along the information highway.
+                </div>
+              </div>
+              <div class="testi-content">
+                <div class="image-wrap">
+                  <img src="assets/images/testimonial/main-home/5.jpg" alt="" />
+                </div>
+                <div class="testi-information">
+                  <div class="testi-name">Melania Trump</div>
+                  <span class="designation">Assistant Director</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="rs-animation">
+          <div class="animate one">
+            <img src="assets/images/testimonial/icons/1.png" alt="Images" />
+          </div>
+          <div class="animate two">
+            <img src="assets/images/testimonial/icons/2.png" alt="Images" />
+          </div>
+        </div>
+      </div>
+      <!-- Testimonial Section End -->
+
+      <!-- Blog Section Start -->
+      <div
+        id="rs-blog"
+        class="rs-blog blog-home-style1 pt-125 pb-130 md-pt-75 md-pb-80"
+      >
+        <div class="container">
+          <div class="sec-title mb-60 text-center">
+            <span class="sub-upper pb-13"
+              >[ <span class="sub-title">Blog</span> ]
+            </span>
+            <h2 class="title">Our Latest News</h2>
+          </div>
+          <div
+            class="rs-carousel owl-carousel"
+            data-loop="true"
+            data-items="3"
+            data-margin="30"
+            data-autoplay="true"
+            data-hoverpause="true"
+            data-autoplay-timeout="8000"
+            data-smart-speed="1200"
+            data-dots="false"
+            data-nav="false"
+            data-nav-speed="false"
+            data-center-mode="false"
+            data-mobile-device="1"
+            data-mobile-device-nav="false"
+            data-mobile-device-dots="false"
+            data-ipad-device="2"
+            data-ipad-device-nav="false"
+            data-ipad-device-dots="false"
+            data-ipad-device2="2"
+            data-ipad-device-nav2="false"
+            data-ipad-device-dots2="false"
+            data-md-device="3"
+            data-md-device-nav="false"
+            data-md-device-dots="false"
+          >
+            <div class="blog-item">
+              <div class="image-wrap">
+                <a href="blog-single.html"
+                  ><img src="images/blog/main-home/1.jpg" alt=""
+                /></a>
+                <ul class="post-categories">
+                  <li><a href="blog-single.html">Application Testing</a></li>
+                </ul>
+              </div>
+              <div class="blog-content">
+                <h3 class="blog-title">
+                  <a href="blog-single.html"
+                    >Open Source Job Show More Openings Fewer</a
+                  >
+                </h3>
+                <p class="desc">
+                  We denounce with righteous indige nation and dislike men who
+                  are so beguiled and demo realized...
+                </p>
+                <ul class="blog-meta">
+                  <li class="date">
+                    <i class="fa fa-calendar-check-o"></i> 21 Nov 2021
+                  </li>
+                  <li class="admin"><i class="fa fa-user-o"></i> admin</li>
+                </ul>
+              </div>
+            </div>
+            <div class="blog-item">
+              <div class="image-wrap">
+                <a href="blog-single.html"
+                  ><img src="images/blog/main-home/2.jpg" alt=""
+                /></a>
+                <ul class="post-categories">
+                  <li><a href="blog-single.html">Application Testing</a></li>
+                </ul>
+              </div>
+              <div class="blog-content">
+                <h3 class="blog-title">
+                  <a href="blog-single.html"
+                    >Tech Products That Makes Its Easier to Stay at Home</a
+                  >
+                </h3>
+                <p class="desc">
+                  We denounce with righteous indige nation and dislike men who
+                  are so beguiled and demo realized...
+                </p>
+                <ul class="blog-meta">
+                  <li class="date">
+                    <i class="fa fa-calendar-check-o"></i> 21 Nov 2021
+                  </li>
+                  <li class="admin"><i class="fa fa-user-o"></i> admin</li>
+                </ul>
+              </div>
+            </div>
+            <div class="blog-item">
+              <div class="image-wrap">
+                <a href="blog-single.html"
+                  ><img src="images/blog/main-home/3.jpg" alt=""
+                /></a>
+                <ul class="post-categories">
+                  <li><a href="blog-single.html">Application Testing</a></li>
+                </ul>
+              </div>
+              <div class="blog-content">
+                <h3 class="blog-title">
+                  <a href="blog-single.html"
+                    >Necessity May Give Us Your Best Virtual Court System</a
+                  >
+                </h3>
+                <p class="desc">
+                  We denounce with righteous indige nation and dislike men who
+                  are so beguiled and demo realized...
+                </p>
+                <ul class="blog-meta">
+                  <li class="date">
+                    <i class="fa fa-calendar-check-o"></i> 16 Nov 2020
+                  </li>
+                  <li class="admin"><i class="fa fa-user-o"></i> admin</li>
+                </ul>
+              </div>
+            </div>
+            <div class="blog-item">
+              <div class="image-wrap">
+                <a href="blog-single.html"
+                  ><img src="images/blog/main-home/4.jpg" alt=""
+                /></a>
+                <ul class="post-categories">
+                  <li><a href="blog-single.html">Application Testing</a></li>
+                </ul>
+              </div>
+              <div class="blog-content">
+                <h3 class="blog-title">
+                  <a href="blog-single.html"
+                    >Servo Project Joins The Linux Foundation Fold</a
+                  >
+                </h3>
+                <p class="desc">
+                  We denounce with righteous indige nation and dislike men who
+                  are so beguiled and demo realized...
+                </p>
+                <ul class="blog-meta">
+                  <li class="date">
+                    <i class="fa fa-calendar-check-o"></i> 21 Nov 2021
+                  </li>
+                  <li class="admin"><i class="fa fa-user-o"></i> admin</li>
+                </ul>
+              </div>
+            </div>
+            <div class="blog-item">
+              <div class="image-wrap">
+                <a href="blog-single.html"
+                  ><img src="images/blog/main-home/5.jpg" alt=""
+                /></a>
+                <ul class="post-categories">
+                  <li><a href="blog-single.html">IT Services</a></li>
+                </ul>
+              </div>
+              <div class="blog-content">
+                <h3 class="blog-title">
+                  <a href="blog-single.html"
+                    >Servo Project Joins The Linux Foundation Fold</a
+                  >
+                </h3>
+                <p class="desc">
+                  We denounce with righteous indige nation and dislike men who
+                  are so beguiled and demo realized...
+                </p>
+                <ul class="blog-meta">
+                  <li class="date">
+                    <i class="fa fa-calendar-check-o"></i> 21 Nov 2021
+                  </li>
+                  <li class="admin"><i class="fa fa-user-o"></i> admin</li>
+                </ul>
+              </div>
+            </div>
+            <div class="blog-item">
+              <div class="image-wrap">
+                <a href="blog-single.html"
+                  ><img src="images/blog/main-home/6.jpg" alt=""
+                /></a>
+                <ul class="post-categories">
+                  <li><a href="blog-single.html">Software Development</a></li>
+                </ul>
+              </div>
+              <div class="blog-content">
+                <h3 class="blog-title">
+                  <a href="blog-single.html"
+                    >Necessity May Give Us Your Best Virtual Court System</a
+                  >
+                </h3>
+                <p class="desc">
+                  We denounce with righteous indige nation and dislike men who
+                  are so beguiled and demo realized...
+                </p>
+                <ul class="blog-meta">
+                  <li class="date">
+                    <i class="fa fa-calendar-check-o"></i> 21 Nov 2021
+                  </li>
+                  <li class="admin"><i class="fa fa-user-o"></i> admin</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Blog Section End -->
