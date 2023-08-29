@@ -55,7 +55,7 @@
 -------------------------------------*/
 html,
 body {
-  font-size: 16px;
+  font-size: 17px;
   color: #454545;
   font-family: 'Nunito', sans-serif;
   vertical-align: baseline;
@@ -722,7 +722,7 @@ blockquote cite:before {
 .y-middle {
   display: -ms-flexbox;
   display: -webkit-flex;
-  display: flex;
+  
   -ms-flex-wrap: wrap;
   -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
@@ -903,11 +903,14 @@ blockquote cite:before {
 .readon.started {
   padding: 15px 32px;
   text-transform: uppercase;
-  background-image: linear-gradient(90deg, #004fd2 10%, #a511dc 100%);
+  background: #ed3237;
+  transition: all 0.8s ease-in-out;
 }
 .readon.started:hover {
-  background-image: linear-gradient(90deg, #a511dc 10%, #004fd2 100%);
-  color: #ffffff;
+  background: #ffffff;
+  color: #ed3237;
+  border: 1px solid #ed3237;
+  border-radius:10px;
 }
 .readon.started.get {
   border-radius: 4px 4px 4px 4px;
@@ -1434,7 +1437,7 @@ blockquote cite:before {
   margin: 0;
 }
 .sec-title .title span {
-  color: #004fd2;
+  color: #00bbd3;
 }
 .sec-title .title.title2 {
   color: #ffffff;
@@ -1521,14 +1524,12 @@ blockquote cite:before {
   position: relative;
 }
 .full-width-header .rs-header .topbar-area {
-  padding-top: 20px;
+  padding-top: 1px;
   padding-bottom: 10px;
+  height:80px;
+
 }
-.full-width-header .rs-header .topbar-area.style1 {
-  background: #106EEA;
-  padding-top: 0px;
-  padding-bottom: 0px;
-}
+
 .full-width-header .rs-header .topbar-area.style1 .topbar-contact li {
   display: inline-block;
   color: #ffffff;
@@ -1589,10 +1590,7 @@ blockquote cite:before {
 .full-width-header .rs-header .topbar-area.style1 .toolbar-sl-share ul li:last-child {
   margin: 0;
 }
-.full-width-header .rs-header .topbar-area.style1.topbar-style2 {
-  background: transparent;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-}
+
 .full-width-header .rs-header .topbar-area.style1.topbar-style2 .topbar-contact li {
   border-right: 1px solid rgba(255, 255, 255, 0.2);
   margin-right: 20px;
@@ -1625,7 +1623,8 @@ blockquote cite:before {
 }
 .full-width-header .rs-header .menu-area {
   transition: all 0.3s ease 0s;
-  background: transparent;
+  background: #ffffff;
+  height:80px;
 }
 .full-width-header .rs-header .menu-area .row-table {
   display: flex;
@@ -1671,18 +1670,18 @@ blockquote cite:before {
 }
 .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li a {
   transition: all 0.3s ease;
-  font-size: 15px;
+  font-size: 17px !important;
   font-weight: 600;
   margin-right: 10px;
   height: 95px;
   line-height: 95px;
   padding: 0;
-  color: #101010;
+  color: #12232f !important;
   font-family: Montserrat;
   position: relative;
 }
 .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li a:hover {
-  color: #a112dc !important;
+  color: #00bbd3 !important;
 }
 /* .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li ul.sub-menu li a:hover {
   color: #fff !important;
@@ -1755,7 +1754,7 @@ blockquote cite:before {
   color: #004fd2 !important;
 }
 .full-width-header .rs-header .menu-area .sticky {
-  background: linear-gradient(90deg, #004fd2 0%, #a112dc 100%);
+  background: #1b4188;
 }
 .full-width-header .rs-header .menu-area.sticky .logo-area a .sticky-logo {
   display: block;
@@ -3004,10 +3003,11 @@ body .search-modal .close:hover {
 .rs-slider.rs-slider-style2 .content-part .sl-title {
   font-size: 60px;
   font-weight: 800;
-  line-height: 1.35em;
+  line-height: 65px;
   color: #ffffff;
   max-width: 910px;
   margin: 0 auto 25px;
+  transform: capitalize;
 }
 .rs-slider.rs-slider-style2 .content-part .description .desc {
   font-size: 18px;
@@ -3587,7 +3587,7 @@ body .search-modal .close:hover {
   display: flex;
 }
 .rs-contact.contact-style5 .contact-box .address-box .address-icon {
-  background-image: linear-gradient(275deg, #af2af3 0%, #004fd2 100%);
+  background: #00bbd3;
   min-width: 48px;
   height: 48px;
   line-height: 48px;
@@ -4135,11 +4135,16 @@ body .search-modal .close:hover {
 /* ------------------------------------
     18. Services Section CSS
 ---------------------------------------*/
+.rs-services{
+  background:#00bbd3;
+}
 .rs-services.main-home .services-item {
   padding: 68px 45px 60px 45px;
-  background-color: #ffffff;
+  border: 1px solid #1b4188;
+  border-radius: 15px;
   position: relative;
   text-align: left;
+  transition: all 0.8s ease-in-out;
 }
 .rs-services.main-home .services-item .services-icon {
   position: relative;
@@ -4174,7 +4179,7 @@ body .search-modal .close:hover {
   margin: 0;
 }
 .rs-services.main-home .services-item:hover {
-  background-image: linear-gradient(90deg, #004fd2 0%, #a112dc 100%);
+  background: #1b4188;
 }
 .rs-services.main-home .services-item:hover .services-icon {
   position: relative;
@@ -5001,7 +5006,7 @@ body .search-modal .close:hover {
   color: #ffffff;
   margin: 0 auto;
   border-radius: 50%;
-  background-image: linear-gradient(90deg, #004fd2 0%, #a112dc 100%);
+  background: #00bbd3;
 }
 .rs-process.style1 .addon-service-main .rs-addon-services .addon-wrap .number-text .content-txt {
   padding: 20px 10px 0px 10px;
@@ -7496,7 +7501,7 @@ body .search-modal .close:hover {
   margin: 0;
 }
 .rs-footer.footer-style1 .footer-top .address-widget li {
-  padding: 0px 0px 16px 40px;
+  padding: 0px 0px 16px 0px;
   position: relative;
 }
 .rs-footer.footer-style1 .footer-top .address-widget li .desc {

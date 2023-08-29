@@ -187,7 +187,7 @@
     flex-wrap: wrap;
   }
   .sticky {
-    background: linear-gradient(90deg, #004fd2 0%, #a112dc 100%) !important;
+
     position: fixed !important;
     top: 0px;
     color: red !important;
@@ -210,11 +210,10 @@
   }
   .sticky ul.nav-menu li ul.sub-menu {
     color: #fff !important;
-    background: linear-gradient(90deg, #004fd2 0%, #a112dc 100%) !important;
+    
   }
   .sticky ul.nav-menu li ul.sub-menu li:hover {
-    color: #a112dc !important;
-    background: #fff !important;
+    color: #00bbd3 !important;
   }
   .sticky a {
     color: #fff !important;
